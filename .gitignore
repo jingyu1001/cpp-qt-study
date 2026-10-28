@@ -1,0 +1,16 @@
+# 本地参考资料（版权书 PDF，不随仓库分发）
+reference/
+*.pdf
+
+# 本地草稿与临时目录
+.draft/
+
+# 构建产物
+build/
+build-*/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.user
+.vs/
